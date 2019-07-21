@@ -1,0 +1,2 @@
+# cynet
+ Terminal idel game
